@@ -1,0 +1,46 @@
+body{
+    height: 850px;
+    width: 100%;
+    background-image: linear-gradient(skyblue,pink,white);
+}
+.border{
+    position: absolute;
+    width: 500px;
+    height: 280px;
+    text-align: center;
+    margin-left: 650px;
+    border: 2px solid red;
+    border-radius: 25px;
+    margin-top: 205px;
+    background-color: blueviolet;
+}
+.classbtn{
+    position: absolute;
+    height: 60px;
+    width: 300px;
+    margin-left: 650px;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color:cadetblue;
+    font-weight: bold;
+    font-size:15px;
+    margin-top: 30px;
+}
+.classbtn:hover{
+    background-color: aqua;
+}
+.btn2{
+    position:absolute;
+    height: 60px;
+    width: 300px;
+    margin-left: 300px;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color:cadetblue;
+    font-weight:bold;
+    font-size:15px;
+    margin-top: 30px;
+}
+.btn2:hover{
+    background-color: aqua;
+}
